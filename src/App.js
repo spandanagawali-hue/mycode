@@ -15,7 +15,7 @@ function App() {
         />
         <meta
           name="keywords"
-          content="YouTube, timestamp, links, video, sharing, free, online, tool"
+          content="YouTube, coffee, links, video, sharing, free, online, tool"
         />
       </Helmet>
       <LandingPage />
